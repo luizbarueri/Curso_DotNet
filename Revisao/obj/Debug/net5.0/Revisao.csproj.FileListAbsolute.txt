@@ -1,0 +1,16 @@
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\luizb\OneDrive\Cursos\DotNet\revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
